@@ -1,6 +1,6 @@
 ## Express server with Session and CSRF protection middleware
 
-### Getting starter
+### Getting started
 
 - Install nodemon.
 - Install dependencies by "npm install".
