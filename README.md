@@ -1,4 +1,4 @@
-## Express server with Session and CSRF protection middle
+## Express server with Session and CSRF protection middleware
 
 ### Getting starter
 
